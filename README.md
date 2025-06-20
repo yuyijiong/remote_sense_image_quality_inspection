@@ -30,4 +30,4 @@
 2.[segformer-b5-remote-sensing-quality](https://huggingface.co/yuyijiong/segformer-b5-remote-sensing-quality)
 
 ## 训练数据下载
-[数据集](https://cloud.tsinghua.edu.cn/d/7b3167ee4b8d4242a8d1/)
+[数据集](https://huggingface.co/datasets/yuyijiong/remote_sensing_quality_inspect)
